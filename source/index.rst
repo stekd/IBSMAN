@@ -6,7 +6,7 @@
 Welcome to IBS Manual!
 ======================
 
-.. image:: /img/TDLogoSmall 
+.. image:: /img/TDLogoSmall.png
    :width: 300
    :align: center
 
