@@ -1,7 +1,13 @@
 # Repo Description 
 
-This repository is being pushed from hpubvm. This push is a test 
+This repository contains experiments for online documentation. The code here is pushed
+ 
+Read the docs site - https://readthedocs.org/
+
+> Still searching for opensource documentation stacks - May try the GH wiki
 
 # Pushed Experimental Link 
 
-ibs-manual.rtfd.io
+The following link is a push test for the repository. This repository is no longer maintained. 
+
+[CLICK ME](https://ibs-manual.readthedocs.io/en/latest/)
